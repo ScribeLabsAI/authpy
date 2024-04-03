@@ -1,3 +1,6 @@
+# Deprecated
+See [ScribeAuth](https://github.com/ScribeLabsAI/ScribeAuth) or [ScribeAuthNode](https://github.com/ScribeLabsAI/ScribeAuthNode) instead.
+
 # Scribe auth
 ##### Python package for interacting with Scribe's auth api.
 
